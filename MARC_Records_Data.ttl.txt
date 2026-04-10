@@ -1,0 +1,535 @@
+@prefix :        <http://MARCdata.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard:   <http://www.w3.org/2006/vcard/ns#> .
+@prefix viaf:    <http://viaf.org/viaf/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+viaf:92964673  rdf:type  dcterms:Agent .
+
+:78     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:1268174;
+        dcterms:extent      "159 pages ; ill. (some col.) ; 8 pages of plates ; 29 cm."^^xsd:String;
+        dcterms:identifier  "746.43/4041 19"^^xsd:String , "TT820.H839 1983"^^xsd:String , "0442232470"^^xsd:Integer;
+        dcterms:title       "More Weekend Crochet Projects"@en .
+
+viaf:76450949  rdf:type  dcterms:Agent .
+
+:37     rdf:type  dcterms:BibliographicResource .
+
+:65     rdf:type  dcterms:BibliographicResource .
+
+viaf:76323123  rdf:type  dcterms:Agent .
+
+:93     rdf:type  dcterms:BibliographicResource .
+
+:24     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:85532550;
+        dcterms:description  "First domestic"@en , "m-m edition"@en;
+        dcterms:extent       "287 pages ; 18 cm."^^xsd:String;
+        dcterms:identifier   "MYSTERY"^^xsd:String , "9780449208670"^^xsd:Integer , "BBM F PERRY, A.;"^^xsd:String , "(Local Call No.:)"^^xsd:String ;
+        dcterms:title        "The Cater Street Hangman"@en .
+
+viaf:148389793  rdf:type  dcterms:Agent .
+
+:52     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:3884154076033311860001;
+        dcterms:description  "First trade edition"@en;
+        dcterms:extent       "280 pages ; ill. (col.) ; 21 cm."^^xsd:String;
+        dcterms:identifier   "340.092 23"^^xsd:String , "1538728737"^^xsd:Integer , "9781538728734"^^xsd:Integer;
+        dcterms:title        "Haben: the Deafblind Woman Who Conquered Harvard Law"@en .
+
+viaf:75203640  rdf:type  dcterms:Agent .
+
+viaf:294417970  rdf:type  dcterms:Agent .
+
+:1      rdf:type  dcterms:BibliographicResource .
+
+:11     rdf:type  dcterms:BibliographicResource .
+
+:80     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:4388161211703440070006;
+        dcterms:description  "Third edition"@en;
+        dcterms:extent       "328 pages ; 23 cm."^^xsd:String;
+        dcterms:identifier   "917.610464 22"^^xsd:String , "GV199.42.A2 C84 2007"^^xsd:String , "0762741589"^^xsd:Integer , "9780762741588"^^xsd:Integer;
+        dcterms:title        "Hiking Alabama: A Guide to Alabama's Greatest Hiking Adventures"@en .
+
+viaf:2110728  rdf:type  dcterms:Agent .
+
+viaf:4388161211703440070006
+        rdf:type  dcterms:Agent .
+
+viaf:76439526  rdf:type  dcterms:Agent .
+
+viaf:57791973  rdf:type  dcterms:Agent .
+
+:58     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:38478541;
+        dcterms:extent      "448 pages : ill. (some col.) ; 31 cm"^^xsd:String;
+        dcterms:identifier  "959.704/3/03 21"^^xsd:String , "DS557.7.G88 2002"^^xsd:String , "1856486397"^^xsd:Integer;
+        dcterms:title       "Vietnam: A Visual Encyclopedia"@en .
+
+:86     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:24919199;
+        dcterms:description  "Updated edition"@en;
+        dcterms:extent       "xii, 1685 pages ; maps ; 3 pages of plates ; CD-ROM ; 29 cm."^^xsd:String;
+        dcterms:identifier   "9781565633599"^^xsd:Integer , "1598560662"^^xsd:Integer , "9781598563788"^^xsd:Integer , "220.52033 22"^^xsd:Integer , "1598563785"^^xsd:Integer , "1565633589"^^xsd:Integer , "BS425.S8 2007"^^xsd:String , "9781598560664"^^xsd:Integer;
+        dcterms:title        "Strong's Exhaustive Concordance of the Bible"@en .
+
+:7      rdf:type  dcterms:BibliographicResource .
+
+:17     rdf:type  dcterms:BibliographicResource .
+
+:45     rdf:type  dcterms:BibliograhicResource .
+
+:73     rdf:type  dcterms:BibliographicResource .
+
+:32     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:107925240;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "312 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier   "813/.6 23"^^xsd:String , "PS3606.L683 F586 2018"^^xsd:String , "1683315626"^^xsd:Integer , "9781683315629"^^xsd:Integer;
+        dcterms:title        "Flowers and Foul Play"@en .
+
+:60     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:Q5233182;
+        dcterms:extent      "xviii, 509 pages ; ill., ports. ; 23 cm."^^xsd:String;
+        dcterms:identifier  "364.1/64 20"^^xsd:String , "0922915490"^^xsd:Integer;
+        dcterms:title       "The Oklahoma City Bombing and the Politics of Terror"@en .
+
+viaf:18032665  rdf:type  dcterms:Agent .
+
+viaf:52556024  rdf:type  dcterms:Agent .
+
+viaf:107026829  rdf:type  dcterms:Agent .
+
+:79     rdf:type  dcterms:BibliographicResource .
+
+:38     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:41287311;
+        dcterms:description  "edition"@en , "First Pegasus"@en;
+        dcterms:extent       "281 pages ; 21 cm."^^xsd:String;
+        dcterms:identifier   "813/.6 23"^^xsd:String , "1681772566"^^xsd:Integer , "9781681772561"^^xsd:Integer , "9781681776194"^^xsd:Integer , "PS3613.A2833 P58 2016"^^xsd:String;
+        dcterms:title        "Plaid and Plagiarism"@en .
+
+:66     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:263093953;
+        dcterms:extent      "xviii, 348 pages ; ill. ; 23 cm."^^xsd:String;
+        dcterms:identifier  "976.1 20"^^xsd:String , "F326.L63 1993"^^xsd:String , "0814306846"^^xsd:Integer;
+        dcterms:title       "Voices from Alabama: A Twentieth-century Mosaic"@en .
+
+:94     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "Thunder Struck"@en;
+        dcterms:creator      viaf:52556024;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "ix, 463 pages ; ill., maps ; 25 cm."^^xsd:String;
+        dcterms:identifier   "364.152/309421 22"^^xsd:String , "1400080665"^^xsd:Integer , "HV6248.C75 L37 2006"^^xsd:String , "9781400080663"^^xsd:Integer;
+        dcterms:title        "Thunderstruck"@en .
+
+:25     rdf:type  dcterms:BibliographicResource .
+
+:53     rdf:type  dcterms:BibliographicResource .
+
+viaf:66596583  rdf:type  dcterms:Agent .
+
+:2      rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:79485267;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "282 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier   "813.54 20"^^xsd:String , "PS3570.O37 T47 1996"^^xsd:String , "055357759x"^^xsd:Integer , "0312144318"^^xsd:Integer;
+        dcterms:title        "A Test of Wills"@en .
+
+:12     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:141136554;
+        dcterms:extent      "274 pages ; 21 cm."^^xsd:String;
+        dcterms:identifier  "F Bradford, L; Inspirational"^^xsd:String , "(Local Call No.:)"^^xsd:String , "9781496716460"^^xsd:Integer , "1496716469"^^xsd:Integer;
+        dcterms:title       "Portrait of a Sister"@en .
+
+:81     rdf:type  dcterms:BibliographicResource .
+
+:40     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:179340629;
+        dcterms:identifier  "R976.198 Mal, 64-31708c"^^xsd:String , "(Local Call No.?:)"^^xsd:String;
+        dcterms:title       "\"Scraps\" Relating to the Early History of Limestone County"@en .
+
+viaf:100252785  rdf:type  dcterms:Agent .
+
+viaf:70389980  rdf:type  dcterms:Agent .
+
+:59     rdf:type  dcterms:BibliographicResource .
+
+viaf:1268174  rdf:type  dcterms:Agent .
+
+:8      rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:76323123;
+        dcterms:extent      "383 pages ; ill. (some col.) ; 24 cm."^^xsd:String;
+        dcterms:identifier  "[Fic] 20"^^xsd:String , "PZ7.S772 Ham 1996b"^^xsd:String , "0688145191"^^xsd:Integer , "9780688145194"^^xsd:Integer;
+        dcterms:title       "Heidi"@en .
+
+:18     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:79485267;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "329 pages ; 24 cm."^^xsd:String;
+        dcterms:identifier   "813/.54 22"^^xsd:String , "PS3570.O37 D87 2009"^^xsd:String , "9780061791765"^^xsd:Integer , "0061791768"^^xsd:Integer;
+        dcterms:title        "A Duty to the Dead"@en .
+
+:87     rdf:type  dcterms:BibliographicResource .
+
+:46     rdf:type             dcterms:BibliographicResources;
+        dcterms:alternative  "Downing Street Years"@en;
+        dcterms:creator      viaf:102379347;
+        dcterms:extent       "xiv, 914 pages"^^xsd:String;
+        dcterms:identifier   "941.085/8 20"^^xsd:String , "DA591.T47 A5 1989"^^xsd:String , "0060170565"^^xsd:Integer;
+        dcterms:title        "Margaret Thatcher: The Downing Street Years"@en .
+
+:74     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "Uniform title: Home Again"@en;
+        dcterms:creator      viaf:64008667;
+        dcterms:extent       "187 pages ; 21 cm."^^xsd:String;
+        dcterms:identifier   "823/.8 20"^^xsd:String , "PR4967.H6 1990"^^xsd:String , "1558611358"^^xsd:Integer;
+        dcterms:title        "The Poet's Homecoming"@en .
+
+viaf:24919199  rdf:type  dcterms:Agent .
+
+viaf:31286451  rdf:type  dcterms:Agent .
+
+:33     rdf:type  dcterms:BibliographicResource .
+
+viaf:56608054  rdf:type  dcterms:Agent .
+
+:61     rdf:type  dcterms:BibliographicResource .
+
+viaf:27151050053233411763
+        rdf:type  dcterms:Agent .
+
+:20     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:29528997;
+        dcterms:extent      "469 pages ; ill. ; 22 cm."^^xsd:String;
+        dcterms:identifier  "JF ALCOTT, L."^^xsd:String , "(Local Call No.:)"^^xsd:String , "1568651198"^^xsd:Integer , "0893757071"^^xsd:Integer;
+        dcterms:title       "Little Women"@en .
+
+viaf:65283845  rdf:type  dcterms:Agent .
+
+viaf:41287311  rdf:type  dcterms:Agent .
+
+viaf:38478541  rdf:type  dcterms:Agent .
+
+:39     rdf:type  dcterms:BibliographicResource .
+
+:67     rdf:type  dcterms:BibliographicResource .
+
+viaf:50289397  rdf:type  dcterms:Agent .
+
+:95     rdf:type  dcterms:BibliographicResource .
+
+:26     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "A Very Short Introduction"@en;
+        dcterms:creator      viaf:92964673;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "141 pages ; ill., map ; 18 cm."^^xsd:String;
+        dcterms:identifier   "820.9/001 23"^^xsd:String , "9780199668496"^^xsd:Integer , "PR255.T74 2015"^^xsd:String , "0199668493"^^xsd:Integer;
+        dcterms:title        "Medieval Literature"@en .
+
+:54     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:26521007;
+        dcterms:extent      "126 pages : ill. ; 23 cm "^^xsd:String;
+        dcterms:identifier  "364.109761/9 22"^^xsd:String , "HV6793.A2 R44 2009"^^xsd:String , "9781596297531"^^xsd:Integer , "1596297530"^^xsd:Integer;
+        dcterms:title       "Wicked North Alabama"@en .
+
+viaf:18926322  rdf:type  dcterms:Agent .
+
+:82     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:31286451;
+        dcterms:extent      "160 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier  "372.4 21"^^xsd:String , "LB1139.5.R43 S64 1998"^^xsd:String , "1571290486"^^xsd:Integer;
+        dcterms:title       "Teaching a Young Child to Read"@en .
+
+:3      rdf:type  dcterms:BibliographicResource .
+
+:13     rdf:type  dcterms:BibliographicResource .
+
+:41     rdf:type  dcterms:BibliographicResource .
+
+:88     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:70389980;
+        dcterms:extent      "x, 246 pages ; ill. ; 26 cm."^^xsd:String;
+        dcterms:identifier  "635.9/51/75 19"^^xsd:String , "SB453.2.S66 R87 1987"^^xsd:String , "0878053905"^^xsd:Integer;
+        dcterms:title       "Gardening Southern Style"@en .
+
+:9      rdf:type  dcterms:BibliographicResource .
+
+:19     rdf:type  dcterms:BibliographicResource .
+
+viaf:64008667  rdf:type  dcterms:Agent .
+
+:47     rdf:type  dcterms:BibliographicResource .
+
+:75     rdf:type  dcterms:BibliographicResource .
+
+:34     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "A Troubled History"@en;
+        dcterms:creator      viaf:75203640;
+        dcterms:extent       "xix, 256 pages ; ill. ; 24 cm."^^xsd:String;
+        dcterms:identifier   "E99.C5 C414"^^xsd:String , "0870492276"^^xsd:Integer;
+        dcterms:title        "The Cherokee Indian Nation"@en .
+
+:62     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:18926322;
+        dcterms:extent      "A-D, 364 pages ; ill. ; 23 cm."^^xsd:String;
+        dcterms:identifier  "813/.54 21"^^xsd:String , "PS3573.I4292 T73 1998"^^xsd:String , "1889252034"^^xsd:Integer;
+        dcterms:title       "Trails of the White Savages"@en .
+
+:90     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:27151050053233411763;
+        dcterms:extent      "239 pages ; ill. (col.) ; 26 cm."^^xsd:String;
+        dcterms:identifier  "641.5/6362 23"^^xsd:String , "TX837.T873 2021"^^xsd:String , "0525610855"^^xsd:Integer , "9780525610854"^^xsd:Integer;
+        dcterms:title       "Fast Easy Cheap Vegan"@en .
+
+:21     rdf:type  dcterms:BibliographicResource .
+
+:68     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:1843582;
+        dcterms:extent      "32 pages ; ill. (col.) ; 27 cm."^^xsd:String;
+        dcterms:identifier  "976.8 21"^^xsd:String , "F217.T3 H39 2003"^^xsd:String , "0836837630"^^xsd:Integer;
+        dcterms:title       "The Tennessee River"@en .
+
+:96     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:148389793;
+        dcterms:extent      "218 pages ; ill. (chiefly col.) ; 28 cm."^^xsd:String;
+        dcterms:identifier  "690/.837 23"^^xsd:String , "TH4815.M355 2019"^^xsd:String , "1631869078"^^xsd:Integer , "9781631869075"^^xsd:Integer;
+        dcterms:title       "How to Build Your Own Tiny House"@en .
+
+:27     rdf:type  dcterms:BibliographicResource .
+
+:55     rdf:type  dcterms:BibliographicResource .
+
+:83     rdf:type  dcterms:BibliographicResource .
+
+:4      rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:85532550;
+        dcterms:description  "First edition"@en , "Ballantine Books"@en;
+        dcterms:extent       "345 pages ; 18 cm."^^xsd:String;
+        dcterms:identifier   "823/.914 20"^^xsd:String , "9780804108584"^^xsd:Integer , "0804108587"^^xsd:Integer , "PR6066.E693 F3 1991"^^xsd:String;
+        dcterms:title        "Face of a Stranger, The"@en .
+
+:14     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "A Memoir"@en;
+        dcterms:creator      viaf:100252785;
+        dcterms:extent       "207 pages ; ill., ports. ; 23 cm."^^xsd:String;
+        dcterms:identifier   "813/.54 21"^^xsd:String , "PS3553.L287 Z49 2002"^^xsd:String , "0743206053"^^xsd:Integer;
+        dcterms:title        "Kitchen Privileges"@en .
+
+viaf:79485267  rdf:type  dcterms:Agent .
+
+viaf:107925240  rdf:type  dcterms:Agent .
+
+:42     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "The Life and Death of Viola Liuzzo"@en;
+        dcterms:creator      viaf:57791973;
+        dcterms:extent       "xiv, 250 pages ; ill. ; 24 cm."^^xsd:String;
+        dcterms:identifier   "364.1/523/09761465 21"^^xsd:String , "E185.98.L58 S83 1998"^^xsd:String , "820320455"^^xsd:Integer;
+        dcterms:title        "From Selma to Sorrow"@en .
+
+viaf:Q5233182  rdf:type  dcterms:Agent .
+
+:70     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:65283845;
+        dcterms:extent      "1122 pages ; 2 volumes in 1 ; 24 cm."^^xsd:String;
+        dcterms:identifier  "PR4622.O735 1930"^^xsd:String , "0000890138"^^xsd:Integer;
+        dcterms:title       "The Complete Sherlock Holmes"@en .
+
+viaf:102379347  rdf:type  dcterms:Agent .
+
+viaf:59131317  rdf:type  dcterms:Agent .
+
+viaf:31188823  rdf:type  dcterms:Agent .
+
+:89     rdf:type  dcterms:BibliographicResource .
+
+viaf:29528997  rdf:type  dcterms:Agent .
+
+:48     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:2110728;
+        dcterms:description  "Large print"@en;
+        dcterms:extent       "359 pages ; 22 cm"^^xsd:String;
+        dcterms:identifier   "813/.623"^^xsd:String , "PS3616.E7933 D36 2012"^^xsd:String , "9781611734430"^^xsd:Integer , "1611734436"^^xsd:Integer;
+        dcterms:title        "Danger in Plain Sight"@en .
+
+viaf:72716649  rdf:type  dcterms:Agent .
+
+viaf:305694463  rdf:type  dcterms:Agent .
+
+viaf:1843582  rdf:type  dcterms:Agent .
+
+:76     rdf:type             dcterms:BibliographicResource;
+        dcterms:creator      viaf:294417970;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "x, 333 pages ; 25 cm."^^xsd:String;
+        dcterms:identifier   "155.2/32 22"^^xsd:String , "BF698.35.I59 C35 2012"^^xsd:String , "780307352149"^^xsd:Integer , "0307352145"^^xsd:Integer;
+        dcterms:title        "Quiet: The Power of Introverts in a World that Can't Stop Talking"@en .
+
+:35     rdf:type  dcterms:BibliographicResource .
+
+viaf:263093953  rdf:type  dcterms:Agent .
+
+:63     rdf:type  dcterms:BibliographicResource .
+
+:91     rdf:type  dcterms:BibliographicResource .
+
+viaf:227145970112932251004
+        rdf:type  dcterms:Agent .
+
+:22     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:90541333;
+        dcterms:extent      "255 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier  "(Local Call No.:)"^^xsd:String , "F SUGARCREEK;"^^xsd:String , "MYSTERY"^^xsd:String , "1961125358"^^xsd:Integer , "9781961125353"^^xsd:Integer , "INSPIRATIONAL/"^^xsd:String , "(Amazon; not in MARC)"^^xsd:Integer;
+        dcterms:title       "Blessings in Disguise"@en .
+
+:50     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:66596583;
+        dcterms:extent      "xvii, 359 pages ; ill., maps ; 25 cm."^^xsd:String;
+        dcterms:identifier  "305.8/00976147 21"^^xsd:String , "F334.M79 N39 1997"^^xsd:String , "0807846619"^^xsd:Integer , "0807823600"^^xsd:Integer;
+        dcterms:title       "Daybreak of Freedom: The Montgomery Bus Boycott"@en .
+
+viaf:141136554  rdf:type  dcterms:Agent .
+
+viaf:3884154076033311860001
+        rdf:type  dcterms:Agent .
+
+viaf:57543887  rdf:type  dcterms:Agent .
+
+:69     rdf:type  dcterms:BibliographicResource .
+
+:97     rdf:type  dcterms:BibliographicResource .
+
+:28     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:76439526;
+        dcterms:extent      "187 pages ; 19 cm."^^xsd:String;
+        dcterms:identifier  "821/.6"^^xsd:String , "PR4331.O7 1970"^^xsd:String , "0804608148"^^xsd:Integer;
+        dcterms:title       "A Primer of Burns"@en .
+
+:56     rdf:type         dcterms:BibliographicResource;
+        dcterms:creator  viaf:Q7350801;
+        dcterms:extent   "217 pages ; ill."^^xsd:String;
+        dcterms:title    "History of Limestone County, Alabama"@en .
+
+:84     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:31188823;
+        dcterms:extent      "ix, 322 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier  "813/.54 22"^^xsd:String , "PS3556.L685 D48 2011b"^^xsd:String , "9780758234919"^^xsd:Integer , "0758234910"^^xsd:Integer;
+        dcterms:title       "Devil's Food Cake Murder"@en .
+
+:5      rdf:type  dcterms:BibliographicResource .
+
+:15     rdf:type  dcterms:BibliographicResource .
+
+viaf:26521007  rdf:type  dcterms:Agent .
+
+:43     rdf:type  dcterms:BibliographicResource .
+
+viaf:120114569  rdf:type  dcterms:Agent .
+
+:71     rdf:type  dcterms:BibliographicResource .
+
+viaf:85532550  rdf:type  dcterms:Agent .
+
+:30     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "A Story of Justice and Redemption"@en;
+        dcterms:creator      viaf:54144648307661510122;
+        dcterms:description  "First Edition"@en;
+        dcterms:extent       "x, 336 pages ; 25 cm."^^xsd:String;
+        dcterms:identifier   "B23 853.4/8092"^^xsd:String , "KF373.S743 A3 2014"^^xsd:String , "0812994523"^^xsd:Integer , "9780812994520"^^xsd:Integer;
+        dcterms:title        "Just Mercy"@en .
+
+:49     rdf:type  dcterms:BibliographicResource .
+
+:77     rdf:type  dcterms:BibliographicResource .
+
+:36     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "My Story"@en;
+        dcterms:creator      viaf:18032665 , viaf:107026829;
+        dcterms:extent       "192 pages ; ill."^^xsd:String;
+        dcterms:identifier   "F334.M753 P37 1990"^^xsd:String , "976.1/47 B 19"^^xsd:String , "0590465384"^^xsd:Integer , "0803706731"^^xsd:Integer;
+        dcterms:title        "Rosa Parks"@en .
+
+:64     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:72716649;
+        dcterms:extent      "xii, 641 pages ; 24 cm."^^xsd:String;
+        dcterms:identifier  "364.66 21"^^xsd:String , "K5104.M44 1997"^^xsd:String , "0809104873"^^xsd:Integer;
+        dcterms:title       "The Death Penalty: an Historical and Theological Survey"@en .
+
+:92     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:56608054;
+        dcterms:extent      "ix, 401 pages ; 21 cm."^^xsd:String;
+        dcterms:identifier  "813/.54 23"^^xsd:String , "PS3553.U75 F37 2021"^^xsd:String , "9780593419465"^^xsd:Integer , "9780593327869"^^xsd:Integer;
+        dcterms:title       "Fast Ice: A Novel from the NUMA Files"@en .
+
+:23     rdf:type  dcterms:BibliographicResource .
+
+:51     rdf:type  dcterms:BibliographicResource .
+
+:0      rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:57543887 , viaf:76450949;
+        dcterms:extent      "382 pages ; 25 cm."^^xsd:String;
+        dcterms:identifier  " 813/.52 20"^^xsd:String , "031285630X"^^xsd:Integer , "0812543262 (pbk.)"^^xsd:Integer , "PS3566.R3982 R45 1995"^^xsd:String , "0812563581 (pbk.)"^^xsd:Integer;
+        dcterms:title       "Relic"@en .
+
+:10     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:76450949 , viaf:57543887;
+        dcterms:extent      "417 pages ; 24 cm."^^xsd:String;
+        dcterms:identifier  "813/.52 21"^^xsd:String , "PS3566.R3982 R57 1998"^^xsd:String , "0446523364"^^xsd:Integer;
+        dcterms:title       "Riptide"@en .
+
+viaf:90541333  rdf:type  dcterms:Agent .
+
+:98     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:59131317;
+        dcterms:extent      "221 pages ; 22 cm."^^xsd:String;
+        dcterms:identifier  "305.569/092 B 21"^^xsd:String , "HD4918.E375 2001"^^xsd:String , "0805063889"^^xsd:Integer;
+        dcterms:title       "Nickel and Dimed: On (Not) Getting by in America"@en .
+
+viaf:Q7350801  rdf:type  dcterms:Agent .
+
+:29     rdf:type  dcterms:BibliographicResource .
+
+:57     rdf:type  dcterms:BibliographicResource .
+
+viaf:54144648307661510122
+        rdf:type  dcterms:Agent .
+
+:85     rdf:type  dcterms:BibliographicResource .
+
+:6      rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "An Aurora Teagarden Mystery"@en;
+        dcterms:creator      viaf:50289397;
+        dcterms:description  "Berkley Prime"@en , "Crime m-m ed."@en;
+        dcterms:extent       "290 pages ; 18 cm."^^xsd:String;
+        dcterms:identifier   "9780425218716"^^xsd:Integer , "813/.54 22"^^xsd:String , "0425218716"^^xsd:Integer , "PS3558.A6427 R4 2007"^^xsd:String;
+        dcterms:title        "Real Murders"@en .
+
+:16     rdf:type             dcterms:BibliographicResource;
+        dcterms:alternative  "A Memoir of a Family and Culture in Crisis"@en;
+        dcterms:creator      viaf:227145970112932251004;
+        dcterms:description  "First edition"@en;
+        dcterms:extent       "264 pages ; 24 cm."^^xsd:String;
+        dcterms:identifier   "305.5/62089090092 23"^^xsd:String , "HD8073.V37 A3 2016"^^xsd:String , "0062300547"^^xsd:Integer;
+        dcterms:title        "Hillbilly Elegy"@en .
+
+:44     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:120114569;
+        dcterms:extent      "xix, 524 pages ; maps ; 25 cm."^^xsd:String;
+        dcterms:identifier  "940.54/050947 22"^^xsd:String , "DJK49.S69 2010"^^xsd:String , "780465002399"^^xsd:Integer , "0465002390"^^xsd:Integer;
+        dcterms:title       "Bloodlands: Europe between Hitler and Stalin"@en .
+
+:72     rdf:type            dcterms:BibliographicResource;
+        dcterms:creator     viaf:305694463;
+        dcterms:extent      "148 pages ; ill. (col.) ; 32 cm."^^xsd:String;
+        dcterms:identifier  "976.8 21"^^xsd:String , "F217.T3 K65 1998"^^xsd:String , "0813120519"^^xsd:Integer;
+        dcterms:title       "The Tennessee Valley: a Photographic Portrait"@en .
+
+viaf:179340629  rdf:type  dcterms:Agent .
+
+:31     rdf:type  dcterms:BibliographicResource .
